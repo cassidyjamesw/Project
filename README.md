@@ -66,7 +66,7 @@ At first look there is no relationship between subway proximity and price/intere
 ![Price v Subway Proximity](Pictures/price_subway_1.png)
 
 But when you account for the number of bedrooms and bathrooms in each listing, price shoots up when in close proximity to a subway.
-Higher interest listings show lower prices for the same distance froma  subway.
+Higher interest listings show lower prices for the same distance from a subway.
 ![Weighted Price v Subway Proximity](Pictures/price_subway_2.png)
 ![Weighted Price v Subway Proximity Log Scale](Pictures/price_subway_3.png)
 
