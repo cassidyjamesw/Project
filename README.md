@@ -52,7 +52,8 @@ likely caused by the limited supply of housing in New York City. And we see the 
 
 
 A quick scatter plot comparing price to bedrooms show prices generally rising with bedrooms, and higher interest for lower prices
-![Price v Bedrooms](Pictures/Price vs Bedrooms.png)
+
+![Price v Bedrooms](Pictures/Price_vs_Bedrooms.png)
 
 ## How does proximity to Subways influence a rental’s price or interest level?
 
