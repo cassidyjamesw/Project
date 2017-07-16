@@ -45,6 +45,8 @@ price_bedrooms_scatter.png
 
 After cleaning the data we can get a sense of the listings we are looking at. We see a large amount of the listings with "Low Interest" (about 69.5%),
 likely caused by the limited supply of housing in New York City. And we see the majority of monthly rents falling between $2000 and $4000.
+
+
 ![Interest Levels](Pictures/cleaned_interest_level_pie.png)
 ![Listing Prices](Pictures/cleaned_price_hist.png)
 
@@ -84,4 +86,5 @@ low_feature_counts.png
 
 Weighting the features (since low interest listings made up over half the data) allows us to see the features that set low and high interest listings 
 appart. Hardwood floors and No Fee listings stand out in getting more interest. While a Doorman does not seem to add much interest to a listing.
+
 ![Interest for Weighted Features](Pictures/adj_feature_final.png)
