@@ -41,7 +41,8 @@ Date of listing creation
 ## Basic Exploration and Cleaning
 
 The data contained some extreme outliers as illustrated by this scatter plot
-price_bedrooms_scatter.png
+
+![Price Bedrooms](Pictures/price_bedrooms_scatter.png)
 
 After cleaning the data we can get a sense of the listings we are looking at. We see a large amount of the listings with "Low Interest" (about 69.5%),
 likely caused by the limited supply of housing in New York City. And we see the majority of monthly rents falling between $2000 and $4000.
